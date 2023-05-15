@@ -20,3 +20,12 @@
 <div class="logo">
     <img src="img/logo.png" alt="logo" style="width:250px; height: 70px:">
 </div>
+
+
+<div class="notification">
+    <img src="img/notif.png" alt="notification" style="width: 40px; height: 40px; position: relative; top:5px; left: 5px;">
+</div>
+
+<div class="profits">
+
+</div>
