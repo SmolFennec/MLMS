@@ -16,7 +16,7 @@
     <a href="workflow.php">Workflow</a>
     <div class="line"></div>
 </div>
-
+<div class="main">
 <div class="logo">
     <img src="img/logo.png" alt="logo" style="width:250px; height: 70px:">
 </div>
@@ -28,4 +28,5 @@
 
 <div class="profits">
 
+</div>
 </div>
